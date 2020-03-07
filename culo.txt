@@ -1,1 +1,3 @@
 hola esto es un texto
+
+pero ahora lo estoy editando. así que vamos a ver cómo cambia esto en git
