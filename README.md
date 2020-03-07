@@ -1,2 +1,2 @@
 # super-robot
-// hola qué tal?
+[comment]: <> hola qué tal?
