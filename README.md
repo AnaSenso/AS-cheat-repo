@@ -1,2 +1,2 @@
 # super-robot
-[//]: <> hola qué tal?
+<b> hola qué tal? </b>
