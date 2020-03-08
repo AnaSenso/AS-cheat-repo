@@ -1,11 +1,3 @@
-Git Concepts
-============
-| Command | Description |
-| ------- | ----------- |
-| `repository` | Lugar en el que se almacena todo tu código. Puede ser local (el que tienes en el equipo) o remoto (en GitHub) |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
-
-
 Git Commands
 ============
 
